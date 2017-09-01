@@ -1,7 +1,7 @@
 # PrestaShopLocalFiles
 This includes the  PrestaShop Files and the Database required for it.
 
-I am currently running my version on MAMP on OSx. The database for MAMP is located under, ../Applications/MAMP/db/mysql56/prestashop.
+Currently for my localhost, I am using MAMP and running it in OSx. The database for MAMP is located under, ../Applications/MAMP/db/mysql56/prestashop.
 
 Here is a Video Tutorial on how to install Prestashop Locally(with MAMP) : https://www.youtube.com/watch?v=cM54RV7CAto
 
