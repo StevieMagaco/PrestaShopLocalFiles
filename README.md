@@ -5,7 +5,7 @@ I am currently running my version on MAMP on OSx. The database for MAMP is locat
 
 Here is a Video Tutorial on how to install Prestashop Locally: https://www.youtube.com/watch?v=cM54RV7CAto
 
-These instructions are a snipet from(For more details click the link): http://doc.prestashop.com/display/PS16/Installing+PrestaShop+on+your+computer
+These instructions bellow are a snipet from(For more details click the link): http://doc.prestashop.com/display/PS16/Installing+PrestaShop+on+your+computer
 
 Installing PrestaShop on your computer
 You may wish to install PrestaShop on your local machine, either in order to test it before investing money in a server and domain name, or to customize your store locally before you push your modifications to the PrestaShop installation that you may already have online.
